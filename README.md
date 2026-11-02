@@ -6,6 +6,8 @@
 
 <img src="media/intro.gif" width="260"> &nbsp; <img src="media/build.gif" width="260">
 
+<sub>previews: Python renderer, 130,000 points · the Blender project renders 2,000,000</sub>
+
 *No orbit. No path. Just probability.*
 
 [Watch on X](https://x.com/AlexCarten_) · Blender 4.2+ / 5.x · Python 3.10+
