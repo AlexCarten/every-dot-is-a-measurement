@@ -4,9 +4,9 @@
 
 **A hydrogen atom built from 2,000,000 places an electron was found.**
 
-<img src="media/intro.gif" width="260"> &nbsp; <img src="media/build.gif" width="260">
+<img src="media/intro.gif" width="240"> &nbsp; <img src="media/build.gif" width="240"> &nbsp; <img src="media/cut.gif" width="240">
 
-<sub>previews: Python renderer, 130,000 points · the Blender project renders 2,000,000</sub>
+<sub>rendered in Blender with the script in this repo · 2,000,000 points</sub>
 
 *No orbit. No path. Just probability.*
 
@@ -29,7 +29,7 @@ this is the **4d state of hydrogen** (n = 4, l = 2, m = 0), and every point in t
 
 | | |
 |---|---|
-| <img src="media/frame_0.jpg" width="260"> | <img src="media/frame_16.jpg" width="260"> |
+| <img src="media/frame_17.jpg" width="260"> | <img src="media/frame_23.jpg" width="260"> |
 | **Gold** = the wave is positive, **blue** = negative | Cut open: a shell where the electron is **never** found |
 
 ## The math
