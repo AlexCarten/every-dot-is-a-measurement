@@ -58,8 +58,8 @@ Knobs at the top of the script:
 
 | setting | default | what it does |
 |---|---|---|
-| `NP` | `900_000` | number of measurements (points) |
-| `POINT_PX` | `3.4` | particle size on screen |
+| `NP` | `2_000_000` | number of measurements (points) — 2 million, as in the video. 1,000,000 renders faster |
+| `POINT_PX` | `2.0` | particle size on screen |
 | `BRIGHT` | `1.0` | glow of the particles on top of the lighting |
 | `SAMPLES` | `64` | EEVEE samples |
 
