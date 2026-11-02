@@ -28,13 +28,13 @@ ASSETS = {
 }
 
 # ---------------- settings ----------------
-NP        = 420_000         # number of measurements (points). fewer + bigger = each particle reads clearly
+NP        = 2_000_000       # number of measurements (points) — 2 million, as in the video. 1,000,000 renders faster
 SECONDS   = 31
 FPS       = 30
 ENGINE    = "EEVEE"
 SAMPLES   = 64
 RES_SCALE = 100
-POINT_PX  = 5.0             # point size on screen (each point is a small lit sphere)
+POINT_PX  = 2.0             # point size on screen (each point is a small lit sphere)
 BRIGHT    = 1.0             # glow of the dots on top of the lighting
 OUTPUT    = os.path.join(os.path.expanduser("~"), "OrbitalRenders", "every_dot")
 NF = SECONDS * FPS
