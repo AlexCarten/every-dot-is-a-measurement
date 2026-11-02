@@ -1,0 +1,7 @@
+*.mp4
+*.wav
+*.npy
+_m.png
+f_*.png
+__pycache__/
+render/fonts/
